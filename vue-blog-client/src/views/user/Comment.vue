@@ -7,6 +7,7 @@
       <Button type="ghost" @click="search">搜索数据</Button>
   </div>
 
+
   <Modal
         v-model="modal1"
         title="普通的Modal对话框标题"
